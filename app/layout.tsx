@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Wanderlust - Travel Planning Made Easy",
   description: "Plan your perfect trip with personalized recommendations and itineraries",
-    generator: 'v0.dev'
+    generator: 'Next.js'
 }
 
 export default function RootLayout({
